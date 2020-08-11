@@ -1,0 +1,5 @@
+[
+  {"type":  "SOURCE_IP", "value": "127.0.0.1", "allow":  true},
+  {"type":  "DESTINATION_HOST", "value": "1.2.3.4", "allow":  false},
+  {"type": "SOURCE_USER", "value": "rotem", "allow":  true}
+]
